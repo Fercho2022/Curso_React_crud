@@ -1,0 +1,17 @@
+.transparent-button {
+    background-color: transparent;
+    border: 1px solid #6c757d; /* Color del borde resaltado */
+    color: #000; /* Color de texto normal */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    
+  }
+  
+  .transparent-button:hover {
+    background-color: #6c757d; /* Cambia el color de fondo al pasar sobre el botón */
+    color: #fff; /* Cambia el color del texto al pasar sobre el botón */
+  }
+
+  .mr-2 {
+    margin-right: 0.5rem; /* Ajusta el valor del margen según sea necesario */
+  }
+ 
